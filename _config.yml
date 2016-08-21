@@ -1,18 +1,14 @@
-layout_spectrum: 0.5859353020787239
-typography_spectrum: 0.1960357017815113
+layout_spectrum: 0.7349634810816497
+typography_spectrum: 0.316900976235047
 color:
-  brandStrength: 0.5760198486968875
-  lightness: 0.681683924747631
-  saturation: 0.6891733694355935
-  rhythmicContrast: 0.8001798044424504
+  brandStrength: 0.8105961901601404
+  lightness: 0.07267802720889449
+  saturation: 0.6003625625744462
+  rhythmicContrast: 0.45770507701672614
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-author:
-  name: Tim Jaeger
-  email: tim.jaeger@hfg-gmuend.de
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Tim Jaeger Portfolio
-title: TJ Portfolio
