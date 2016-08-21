@@ -1,0 +1,14 @@
+layout_spectrum: 0.7349634810816497
+typography_spectrum: 0.316900976235047
+color:
+  brandStrength: 0.8105961901601404
+  lightness: 0.07267802720889449
+  saturation: 0.6003625625744462
+  rhythmicContrast: 0.45770507701672614
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Tim Jaeger Portfolio
